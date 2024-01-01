@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // Function to log your details in the terminal
 function logDetails() {
 
@@ -21,11 +22,11 @@ function logDetails() {
   // Log a fun Emoticon
   console.log(`
   \t             
-  \t   .-""-.          ( )-""""-( )          .-""-.
+  \t   .-""-.          ( )-""""-( )           .-""-.
   \t  / O O  \\          /         \\          /  O O \\
   \t  |O .-.  \\        /   0 _ 0   \\        /  .-. O|
   \t  \\ (   )  '.    _|     (_)     |     .'  (   ) /
-  \t   '.\`-\`     '-./ |             |\\.-'     '-'.'
+  \t   '.\`-\`     '-./ |             |\\.-'      '-'.'
   \t     \\         |  \\   \\     /   /  |         /
   \t      \\        \\   '.  '._.'  .'   /        /
   \t       \\        '.   \`'-----'\`   .'        /
