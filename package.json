@@ -1,0 +1,23 @@
+{
+  "name": "hi-aarush",
+  "version": "1.0.0",
+  "description": "A cool and devy way to say Hi to Aarush",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aarush-Acharya/Hi-Aarush.git"
+  },
+  "keywords": [
+    "Aarush",
+    "Hi"
+  ],
+  "author": "Aarush Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aarush-Acharya/Hi-Aarush/issues"
+  },
+  "homepage": "https://github.com/Aarush-Acharya/Hi-Aarush#readme"
+}
